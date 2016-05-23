@@ -1,4 +1,4 @@
 # Monitoring scripts
 Currently including:
-- sensu-plugins
+- graphite-compatible scripts
 - logster-parsers
